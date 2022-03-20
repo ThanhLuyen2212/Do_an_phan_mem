@@ -1,0 +1,16 @@
+D:\Console\buoi3_4\buoi3_4\bin\Debug\net5.0\buoi3_4.exe
+D:\Console\buoi3_4\buoi3_4\bin\Debug\net5.0\buoi3_4.deps.json
+D:\Console\buoi3_4\buoi3_4\bin\Debug\net5.0\buoi3_4.runtimeconfig.json
+D:\Console\buoi3_4\buoi3_4\bin\Debug\net5.0\buoi3_4.runtimeconfig.dev.json
+D:\Console\buoi3_4\buoi3_4\bin\Debug\net5.0\buoi3_4.dll
+D:\Console\buoi3_4\buoi3_4\bin\Debug\net5.0\buoi3_4.pdb
+D:\Console\buoi3_4\buoi3_4\obj\Debug\net5.0\buoi3_4.csproj.AssemblyReference.cache
+D:\Console\buoi3_4\buoi3_4\obj\Debug\net5.0\buoi3_4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Console\buoi3_4\buoi3_4\obj\Debug\net5.0\buoi3_4.AssemblyInfoInputs.cache
+D:\Console\buoi3_4\buoi3_4\obj\Debug\net5.0\buoi3_4.AssemblyInfo.cs
+D:\Console\buoi3_4\buoi3_4\obj\Debug\net5.0\buoi3_4.csproj.CoreCompileInputs.cache
+D:\Console\buoi3_4\buoi3_4\obj\Debug\net5.0\buoi3_4.dll
+D:\Console\buoi3_4\buoi3_4\obj\Debug\net5.0\refint\buoi3_4.dll
+D:\Console\buoi3_4\buoi3_4\obj\Debug\net5.0\buoi3_4.pdb
+D:\Console\buoi3_4\buoi3_4\obj\Debug\net5.0\buoi3_4.genruntimeconfig.cache
+D:\Console\buoi3_4\buoi3_4\obj\Debug\net5.0\ref\buoi3_4.dll

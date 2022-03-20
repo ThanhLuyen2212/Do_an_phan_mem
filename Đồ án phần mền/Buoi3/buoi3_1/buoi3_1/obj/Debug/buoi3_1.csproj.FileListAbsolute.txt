@@ -1,0 +1,8 @@
+D:\Console\buoi3_1\buoi3_1\bin\Debug\buoi3_1.exe.config
+D:\Console\buoi3_1\buoi3_1\bin\Debug\buoi3_1.exe
+D:\Console\buoi3_1\buoi3_1\bin\Debug\buoi3_1.pdb
+D:\Console\buoi3_1\buoi3_1\obj\Debug\buoi3_1.csproj.AssemblyReference.cache
+D:\Console\buoi3_1\buoi3_1\obj\Debug\buoi3_1.csproj.SuggestedBindingRedirects.cache
+D:\Console\buoi3_1\buoi3_1\obj\Debug\buoi3_1.csproj.CoreCompileInputs.cache
+D:\Console\buoi3_1\buoi3_1\obj\Debug\buoi3_1.exe
+D:\Console\buoi3_1\buoi3_1\obj\Debug\buoi3_1.pdb
